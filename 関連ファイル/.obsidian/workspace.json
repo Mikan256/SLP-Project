@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "1c244a2986aa26c1",
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e67ae0bbbe644f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "a7ba106531e19adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "スマイル☆ローンプリキュア.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "スマイル☆ローンプリキュア"
+              "title": "新規タブ"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e898779bd32c84c8",
+    "id": "8de51cfbf5db9793",
     "type": "split",
     "children": [
       {
-        "id": "79235b7d5e801f9e",
+        "id": "f0202cc44cc8c5d0",
         "type": "tabs",
         "children": [
           {
-            "id": "675bf092897dba17",
+            "id": "8bbbafa45e1f1d71",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "fc27d9674799efd7",
+            "id": "0661afd61316872a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "d6954f59982ced4d",
+            "id": "078be22e930e5bfb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "29217bc5aad95a85",
+    "id": "50b1f395fdcb4280",
     "type": "split",
     "children": [
       {
-        "id": "42f243abdf9e46b8",
+        "id": "cbc652467c62f071",
         "type": "tabs",
         "children": [
           {
-            "id": "30ba8322f13638ec",
+            "id": "1903c8c786f3415b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "スマイル☆ローンプリキュア.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "スマイル☆ローンプリキュアへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
-            "id": "5ff4c4297fb1b9ac",
+            "id": "0d93ea190ecb4c1f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "スマイル☆ローンプリキュア.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "スマイル☆ローンプリキュアからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
-            "id": "087b1d84d6f7b648",
+            "id": "4cde226c352c9dd2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "dc1c250955f67f08",
+            "id": "334a16014427d22e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,36 +145,25 @@
             }
           },
           {
-            "id": "204a1661cbdf3207",
+            "id": "0231edafd514de7d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "スマイル☆ローンプリキュア.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "スマイル☆ローンプリキュアのアウトライン"
-            }
-          },
-          {
-            "id": "e1414d9225196a46",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "アウトライン"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,22 +173,9 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false,
-      "homepage:Open homepage": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "bases:新規ベースを作成": false
     }
   },
-  "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-    "暫定/概要.md",
-    "スマイル☆ローンプリキュア.md",
-    "遺物・参考資料/第1回設定会議.md",
-    "関連ファイル/OP集(AIver)/スマイル☆ローンプリキュア 初代.mp3",
-    "関連ファイル/設定・楽譜集/ローン(楽譜).pdf",
-    "関連ファイル/設定・楽譜集/キュアディック編(趣味嗜好).pdf",
-    "遺物・参考資料/第3回設定会議(Discord).md",
-    "関連ファイル/画像素材/闇堕ちディックとクズ彼氏ラフ.png"
-  ]
+  "active": "a7ba106531e19adf",
+  "lastOpenFiles": []
 }

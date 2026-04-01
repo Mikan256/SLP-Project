@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "c910812ae3904a49",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3093ac5c352b10ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "暫定/ギャラリーやら素材やら.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ギャラリーやら素材やら"
+              "title": "新規タブ"
             }
           }
         ]
@@ -197,15 +193,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "675bf092897dba17",
   "lastOpenFiles": [
+    "2026-04-01.md",
     "暫定/キャラおよび組織の設定.md",
-    "暫定/ストーリー.md",
-    "暫定/概要.md",
+    "暫定/ギャラリーやら素材やら.md",
     "暫定/テーマ・世界観設定.md",
+    "暫定/ストーリー.md",
+    "スマイル☆ローンプリキュア.md",
+    "暫定/概要.md",
     "暫定/案の殴り書き.canvas",
     "暫定/楽曲の歌詞リスト.md",
-    "暫定/ギャラリーやら素材やら.md",
     "関連ファイル/OP集(AI ver)/スマイル☆ローンプリキュア 初代.mp3",
     "関連ファイル/ED集(AI ver)/書類を閉じて ED初代.mp3",
     "完全版/完全版概要.md",
@@ -213,7 +211,6 @@
     "遺物・参考資料/第3回設定会議(Discord).md",
     "遺物・参考資料/第2回設定会議.md",
     "遺物・参考資料/第1回設定会議.md",
-    "スマイル☆ローンプリキュア.md",
     "関連ファイル/音源・MIDI(収録)/ローンOP.wav",
     "関連ファイル/動画素材/1774108994405.mp4",
     "関連ファイル/設定・楽譜集/ローン(楽譜).pdf",

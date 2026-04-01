@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c910812ae3904a49",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "3093ac5c352b10ee",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "スマイル☆ローンプリキュア.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "スマイル☆ローンプリキュア"
             }
           }
         ]
@@ -193,7 +197,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "675bf092897dba17",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "2026-04-01.md",
     "暫定/キャラおよび組織の設定.md",
